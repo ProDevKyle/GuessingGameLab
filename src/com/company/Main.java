@@ -34,7 +34,7 @@ public class Main
         int user = input.nextInt();
         if (user == 1)
             choice = 10;
-        if (user == 2 )
+        if (user == 2)
             choice = 100;
         if (user == 3)
             choice = 1000;
